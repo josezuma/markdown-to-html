@@ -1,7 +1,10 @@
 # FAQ
 
 ## What is markdown-to-html?
-Convert Markdown to styled HTML
+Markdown To Html
 
 ## Dependencies?
 Python stdlib only.
+
+## Author
+Jose Zuma

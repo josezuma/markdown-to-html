@@ -1,3 +1,3 @@
 # markdown-to-html
 
-Convert Markdown to styled HTML
+Markdown To Html
